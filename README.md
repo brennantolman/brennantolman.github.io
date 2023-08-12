@@ -26,7 +26,6 @@ This portfolio will be used to showcase my work and skills to potential employer
 
 ## License
 
-MIT License
 
 ---
 
